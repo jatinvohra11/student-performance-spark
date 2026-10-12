@@ -1,0 +1,5 @@
+Metric,Score
+Accuracy (%),99.05
+Weighted Precision,0.9912
+Weighted Recall,0.9905
+Weighted F1-score,0.9906
